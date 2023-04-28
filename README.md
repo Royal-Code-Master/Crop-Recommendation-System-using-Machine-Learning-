@@ -1,11 +1,17 @@
 # Crop-Recommendation-System-using-Machine-Learning-
 This model can able predict the crop based the soil N, P, K, Ph, Humidity, Temperature.
 
-Required Packages :
+# Required Packages :
 
-pandas 
-numpy
-random
-matplotlib.pyplot
-seaborn
-plotly.graph_objects
+pandas ,
+numpy,
+random,
+matplotlib.pyplot,
+seaborn,
+plotly.graph_objects,
+
+# Prediction Models 
+
+Decision Tree
+Random Forest
+
