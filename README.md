@@ -13,6 +13,8 @@ matplotlib.pyplot,
 
 seaborn,
 
+sklearn,
+
 plotly.graph_objects,
 
 # Prediction Models 
