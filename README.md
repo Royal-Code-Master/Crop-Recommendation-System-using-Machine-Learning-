@@ -4,14 +4,22 @@ This model can able predict the crop based the soil N, P, K, Ph, Humidity, Tempe
 # Required Packages :
 
 pandas ,
+
 numpy,
+
 random,
+
 matplotlib.pyplot,
+
 seaborn,
+
 plotly.graph_objects,
 
 # Prediction Models 
 
 Decision Tree
+
 Random Forest
+
+lightgbm
 
